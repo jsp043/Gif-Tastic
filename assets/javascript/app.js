@@ -37,7 +37,7 @@ $(document).ready(function(){
 
                     characterDiv.append(p);
 
-                    characterDiv.append(characterImage);
+                    characterDiv.append(Image);
 
                     characterDiv.prependTo($('#gifs'));
                 }
